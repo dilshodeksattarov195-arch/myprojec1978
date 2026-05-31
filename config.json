@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterralculate",
+        "uuid": 13948856,
+        "checksum": "4fuxpw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
